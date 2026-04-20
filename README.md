@@ -1,2 +1,3 @@
-# AI-Automation
-AI Automation.
+# Duplicate File Finder
+
+Duplicate File Finder.
